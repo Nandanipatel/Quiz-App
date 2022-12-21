@@ -1,6 +1,7 @@
-# first_app
+# Quiz_application
 
 A new Flutter project.
+General knowledge testing application.
 
 ## Getting Started
 
